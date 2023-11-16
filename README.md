@@ -25,4 +25,3 @@ Skills: C / Python / Java / JS / REACT / Django / SQL etc...
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=yeamin07)  
 
-![Profile views](https://gpvc.arturio.dev/yeamin07)  
