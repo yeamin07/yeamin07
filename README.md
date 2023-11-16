@@ -18,8 +18,7 @@ Skills: C / Python / Java / JS / REACT / Django / SQL etc...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeamin07)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeamin07&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeamin07)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/yeamin07)  
 
