@@ -8,8 +8,8 @@ Skills: C / Python / Java / JS / REACT / Django / SQL etc...
 - 📫 How to reach me: yeaminr07@gmail.com 
 
 
-[<img src='https://static.cdnlogo.com/logos/l/78/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/walid-been-shahid-429782292/) 
-[<img src='https://static.cdnlogo.com/logos/f/35/facebook.png' alt='facebook' height='50'>](https://www.facebook.com/yeamin.rahman.545)   
+[<img src='https://static.cdnlogo.com/logos/l/78/linkedin-icon.svg' alt='linkedin'>](https://www.linkedin.com/in/walid-been-shahid-429782292/) 
+[<img src='https://static.cdnlogo.com/logos/f/35/facebook.png' alt='facebook'>](https://www.facebook.com/yeamin.rahman.545)   
  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=yeamin07)  
