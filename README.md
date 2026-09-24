@@ -8,7 +8,7 @@ Skills: C / Python / Java / JS / REACT / Django / SQL etc...
 - 📫 How to reach me: yeaminr07@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' <i class="ri-linkedin-box-fill"></i>>](https://www.linkedin.com/in/walid-been-shahid-429782292/) 
+[<img src='https://cdn.jsdelivr.net/npm/remixicon@4.9.1/icons/Logos/linkedin-box-fill.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/walid-been-shahid-429782292/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/yeamin.rahman.545)   
  
 
