@@ -9,7 +9,7 @@ Skills: C / Python / Java / JS / REACT / Django / SQL etc...
 
 
 [<img src='https://static.cdnlogo.com/logos/l/78/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/walid-been-shahid-429782292/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/yeamin.rahman.545)   
+[<img src='https://static.cdnlogo.com/logos/f/35/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/yeamin.rahman.545)   
  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=yeamin07)  
